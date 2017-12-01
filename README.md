@@ -1,2 +1,4 @@
 # ltc__react_todoList
-create-react-app environment for creating the obligatory todo list
+create-react-app environment for creating the obligatory React todo list
+
+
